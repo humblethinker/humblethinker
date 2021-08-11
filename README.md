@@ -28,7 +28,7 @@
 
 ### ⚙️ GitHub Analytics
 <p align="center">
-<a href="https://github.com/rishabh1323">
+<a href="https://github.com/humblethinker">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=humblethinker&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=humblethinker&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -43,8 +43,6 @@
   <img align="left" alt="Hemang's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
 </a>
 
-<!--
-**rishabh1323/rishabh1323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
